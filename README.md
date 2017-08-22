@@ -1,1 +1,1 @@
-Gulp Demos
+Gulp Demos for beginners
