@@ -11,6 +11,8 @@ gulp.task('default', function () {
     // place code for your default task here
 });
 
+
 gulp.task('serve',function(){
+	//look at the watch function
 	browser.reload();
 });
