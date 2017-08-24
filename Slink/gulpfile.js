@@ -5,7 +5,12 @@
  */
 
 var gulp = require('gulp');
+var browser=require('browser-sync');
 
 gulp.task('default', function () {
     // place code for your default task here
+});
+
+gulp.task('serve',function(){
+	browser.reload();
 });
